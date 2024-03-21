@@ -1,2 +1,9 @@
 
 A new file for fixit
+
+State the problem
+1. We checkout to a new branch
+2. Made a modification and committed it.
+3. We checkout to the master branch
+4. Modified the same file and committed the changes.
+5. Now we  expect a merge conflict
