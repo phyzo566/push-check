@@ -1,5 +1,6 @@
 
 A new file for fixit
+<<<<<<< HEAD
 
 State the problem
 1. We checkout to a new branch
@@ -7,3 +8,6 @@ State the problem
 3. We checkout to the master branch
 4. Modified the same file and committed the changes.
 5. Now we  expect a merge conflict
+=======
+we want to create a merge conflict 
+>>>>>>> fixit
